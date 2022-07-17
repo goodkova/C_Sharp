@@ -20,12 +20,12 @@
 // Конец
 
 
-// вариант 1
- Console.WriteLine("Enter namber N from 100 to 999");
- string str = Console.ReadLine();
+// // вариант 1
+//  Console.WriteLine("Enter namber N from 100 to 999");
+//  string str = Console.ReadLine();
 
- char[] arr = str.ToCharArray();
- Console.WriteLine($"Result is {arr[1]}");
+//  char[] arr = str.ToCharArray();
+//  Console.WriteLine($"Result is {arr[1]}");
 
 //Вариант 2
 
