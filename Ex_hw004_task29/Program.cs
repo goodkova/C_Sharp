@@ -4,7 +4,7 @@
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
-int[] getArray(int length) //
+int[] getArray(int length) 
 {
     Random rnd = new Random();
     int[] arr = new int[length];
